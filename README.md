@@ -1,7 +1,7 @@
 ## Welcome! I'm Ryan! 👋
 
-- 🔭 I’m currently working on a project to make generate and predictions on song lyrics using NLP.
-- 🌱 I’m currently learning about the Natural Language Tool Kit.
+- 🔭 I’m currently working on a project to make analyze, generate, and make predictions on song lyrics using NLP.
+- 🌱 I’m currently learning about the Natural Language Tool Kit. (https://www.nltk.org/book/)
 - 💬 Ask me about something musical
 - ⚡ Fun fact: I used to build custom staircases
 
