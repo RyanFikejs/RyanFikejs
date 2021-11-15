@@ -1,7 +1,7 @@
 ## Welcome! I'm Ryan! 👋
 
-- 🔭 I’m currently working on a project for Human Rights First called Blue Witness
-- 🌱 I’m currently learning about team management as a Technical Project Manger in my last month at Lambda School
+- 🔭 I’m currently working on a project to make generate and predictions on song lyrics using NLP.
+- 🌱 I’m currently learning about the Natural Language Tool Kit.
 - 💬 Ask me about something musical
 - ⚡ Fun fact: I used to build custom staircases
 
