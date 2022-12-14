@@ -4,7 +4,7 @@
       -  lyricAI -- a project to analyze, generate, and make predictions on song lyrics using NLP. <br>
       -  this year's <a href="https://adventofcode.com/2022/">Advent of Code</a> <br>
       -  ETL pipelines with AWS / Apache Ariflow / Python <br>
-- 🌱 I’m learning:
+- 🌱 I’m learning: <br>
       -  the Natural Language Tool Kit. (https://www.nltk.org/book/) <br>
       -  Java <br>
       -  React <br>
