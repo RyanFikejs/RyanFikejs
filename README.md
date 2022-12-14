@@ -1,13 +1,13 @@
 ## Welcome! I'm Ryan! 👋
 
-- 🔭 I’m currently working on:
-      -  lyricAI -- a project to analyze, generate, and make predictions on song lyrics using NLP.
-      -  this year's <a href="https://adventofcode.com/2022/">Advent of Code</a>
-      -  ETL pipelines with AWS / Apache Ariflow / Python
+- 🔭 I’m currently working on:<br>
+      -  lyricAI -- a project to analyze, generate, and make predictions on song lyrics using NLP. <br>
+      -  this year's <a href="https://adventofcode.com/2022/">Advent of Code</a> <br>
+      -  ETL pipelines with AWS / Apache Ariflow / Python <br>
 - 🌱 I’m learning:
-      -  the Natural Language Tool Kit. (https://www.nltk.org/book/)
-      -  Java
-      -  React
+      -  the Natural Language Tool Kit. (https://www.nltk.org/book/) <br>
+      -  Java <br>
+      -  React <br>
 - 💬 Ask me about something musical
 - ⚡ Fun fact: I used to build custom staircases
 
